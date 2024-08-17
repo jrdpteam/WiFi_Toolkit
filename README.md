@@ -1,5 +1,5 @@
 # JRDP_WiFi-toolkit
-JRDP_WiFi_Toolkit is the best network hacking multitool designed for Kali Linux.  by JRDP Team
+JRDP_WiFi_Toolkit is my tiny network hacking multitool designed for Kali Linux.  by JRDP Team
 
 Open Terminal on Your desktop.
 First,download this repo typing command:
