@@ -4,7 +4,7 @@ JRDP_WiFi_Toolkit is my tiny network hacking multitool designed for Kali Linux. 
 Open Terminal on Your desktop.
 First,download this repo typing command:
 
-    git clone https://github.com/JRDPCN/WiFi_Toolkit
+    git clone https://github.com/jrdpteam/WiFi_Toolkit
 
 Then,go to WiFi_Toolkit directory and type this command:
 
