@@ -256,7 +256,7 @@ def ascii_art():
     ██║███╗██║██║██╔══╝  ██║ v3.0  ██║   ██║   ██║██║   ██║██║     ██╔═██╗ ██║   ██║
     ╚███╔███╔╝██║██║     ██║       ██║   ╚██████╔╝╚██████╔╝███████╗██║  ██╗██║   ██║
      ╚══╝╚══╝ ╚═╝╚═╝     ╚═╝       ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝
-                 by JRDP Team     https://github.com/JRDPCN
+                 by JRDP Team     https://github.com/jrdpteam
     """ + colorama.Style.RESET_ALL
     print(ascii_art)
 
